@@ -1,3 +1,3 @@
 # REPOSITORIO_PRACTICA
-Primer commit practico.
-Numero 1
+Segundo commit practico.
+Numero 2

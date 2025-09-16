@@ -1,2 +1,3 @@
 # REPOSITORIO_PRACTICA
-Reposito de practicas-3commit.
+Primer commit practico.
+Numero 1
